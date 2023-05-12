@@ -1,15 +1,15 @@
-# shortcuts
+# Shortcut
 
-# Slack
+## Slack
 
 - 모든 채널의 안읽은 메시지 모두 읽기 → shift + esc
 - 슬랙 모든 검색 → command + K
 
 ---
 
-# IntelliJ
+## IntelliJ
 
-## Run and Debug
+### Run and Debug
 
 - 선택하여 코드 실행 → Control + Option + R
 - 코드 실행 → Control + Control
@@ -19,7 +19,7 @@
 - 오류 해결 솔루션 제시 → Option + Enter
 - 모든 액션 검색 → Command + Shift + A
 
-## Editor
+### Editor
 
 - 페이지 위 혹은 아래로 이동 → Fn + 방향키(위, 아래)
 - “라인 단위”로 위 혹은 아래로 이동 → Option + Shift + 방향키(위, 아래)
@@ -31,12 +31,12 @@
 - 사용하지 않는 import 정리 → Control + Option + O
 - 코드 자동정렬 → option + command + L
 
-## Generate
+### Generate
 
 - 모든 구성요소 생성 → Command + N
 - 테스트 클래스 생성 → Command + Shift + T
 
-## Refactor
+### Refactor
 
 - 모든 리팩토링 선택 기능 → Control + T
 - 파일 이름 변경 → Shift + F6
@@ -48,18 +48,18 @@
 - 오류난 곳으로 이동 → F2
 - 리팩토링 수정 제안 → Option + Enter
 
-## Comment
+### Comment
 
 - 주석 처리 → Command + /
 
-## Focus
+### Focus
 
 - 라인 맨 왼쪽 혹은 오른쪽으로 이동 → Command + 방향키(좌, 우)
 - 단어 맨 왼쪽 혹은 오른쪽으로 이동 → Option + 방향키(좌, 우)
 - 포커스 확장 및 축소 → Option + 방향키(위, 아래)
 - 멀티 포커스(다중 라인 편집시) → Option + Option + 방향키(위, 아래)
 
-## Finder
+### Finder
 
 - **전체 검색 → Shift + Shift**
     - 메소드 검색 → Command + Option +O
@@ -75,10 +75,10 @@
     - 해당 인터페이스/클래스/변수의 사용된 곳 알려줌 → Alt + F7
 - 일치하는 단어 전체 선택 → Command + Control +G
 
-## Diagram
+### Diagram
 
 - Class Diagram → Option + Command + U
 
-## Terminal
+### Terminal
 
 - Terminal 창 실행 → Option + F12
