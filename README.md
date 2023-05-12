@@ -1,3 +1,5 @@
 # engineering-bay
 
-## [Summary: shortcut](summary-shortcut.md)
+## [Summary: Shortcut](summary-shortcut.md)
+
+## [Summary: IntelliJ](summary-intellij.md)
