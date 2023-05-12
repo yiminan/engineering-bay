@@ -1,4 +1,3 @@
 # engineering-bay
 
-## Shortcut
-[summary-shortcut.md](summary-shortcut.md)
+## [Summary: shortcut](summary-shortcut.md)
