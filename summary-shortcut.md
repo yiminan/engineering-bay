@@ -74,6 +74,7 @@
     - 해당 인터페이스/클래스/변수가 구현된 곳 알려줌 → Option + Command + B
     - 해당 인터페이스/클래스/변수의 사용된 곳 알려줌 → Alt + F7
 - 일치하는 단어 전체 선택 → Command + Control +G
+- 패키지 또는 파일 경로 검색 -> Command + 방향키(위)
 
 ### Diagram
 
