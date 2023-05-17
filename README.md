@@ -4,4 +4,6 @@
 
 ## [Summary: IntelliJ](summary-intellij.md)
 
-## [Guide: test](guide-test.md)
+## [Guide: Test](guide-test.md)
+
+## [Guide: Diagram in software engineering](guide-diagraminsoftwareengineering.md)
