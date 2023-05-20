@@ -19,3 +19,7 @@ Settings > Editor > Code Style > Kotlin(사용 언어 선택) > Imports > Top le
 ### Use single name import in "Java statics and Enum members"
 
 Settings > Editor > Code Style > Kotlin(사용 언어 선택) > Imports > Java statics and Enum members > Use single name import
+
+## Auto Optimize imports 셋팅
+
+Settings > Editor > General > Auto Import > Java(사용 언어 선택) > Check "Optimize imports on the fly"
