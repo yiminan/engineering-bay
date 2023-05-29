@@ -7,3 +7,5 @@
 ## [Guide: Diagram in software engineering](guide-diagraminsoftwareengineering.md)
 
 ## [Guide: Test](guide-test.md)
+
+## [Guide: Linux](guide-linux.md)
