@@ -107,6 +107,10 @@ Settings > Editor > Code Style > Kotlin(사용 언어 선택) > Imports > Java s
 
 Settings > Editor > General > Auto Import > Java(사용 언어 선택) > Check "Optimize imports on the fly"
 
+## 새로운 파일 탭을 열면 기존 파일 탭이 대체되어 닫히는 경우, 닫히지 않게 하는 방법
+
+Settings > Editor > General > Editor Tabs > Uncheck "Enable Preview Tab"
+
 ---
 
 # IntelliJ Live Template
