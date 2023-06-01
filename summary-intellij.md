@@ -105,3 +105,10 @@ Settings > Editor > Code Style > Kotlin(사용 언어 선택) > Imports > Java s
 ## Auto Optimize imports 셋팅
 
 Settings > Editor > General > Auto Import > Java(사용 언어 선택) > Check "Optimize imports on the fly"
+
+---
+
+# IntelliJ Live Template
+
+## Live Template 설정 방법
+
