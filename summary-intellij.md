@@ -11,6 +11,7 @@
 - 현재 IDE에 지정된 코드 디버깅 → Control + D
 - 오류 해결 솔루션 제시 → Option + Enter
 - 모든 액션 검색 → Command + Shift + A
+- 디버깅 중단점 설정/해제 → Command + F8
 
 ## Editor
 
