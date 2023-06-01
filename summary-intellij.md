@@ -79,6 +79,10 @@
 
 - Terminal 창 실행 → Option + F12
 
+## Git
+
+- Git Window 실행 → Command + 9
+
 --- 
 
 # IntelliJ Settings
