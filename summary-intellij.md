@@ -91,11 +91,19 @@
 |----------------------|---------------|
 | Option + Command + U | Class Diagram |
 
-## Terminal
+## Supports Window
 
-| Shortcut     | Description   |
-|--------------|---------------|
-| Option + F12 | Terminal 창 실행 |
+| Shortcut     | Description          |
+|--------------|----------------------|
+| Option + F12 | Terminal 창 실행        |
+| Command + 1  | Project 창 실행         |
+| Command + 2  | Bookmarks 창 실행       |
+| Command + 4  | Run 창 실행             |
+| Command + 5  | Debug 창 실행           |
+| Command + 6  | Problem 창 실행         |
+| Command + 7  | Structure 창 실행       |
+| Command + 8  | Services 창 실행        |
+| Command + 9  | Version Control 창 실행 |
 
 --- 
 
