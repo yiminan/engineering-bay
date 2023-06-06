@@ -50,6 +50,14 @@
 | F2                   | 오류난 곳으로 이동    |
 | Option + Enter       | 리팩토링 수정 제안    |
 
+## Bookmark
+
+| Shortcut     | Description     |
+|--------------|-----------------|
+| F3           | 라인에 북마크 설정/해제   |
+| Command + F3 | 북마크 목록 보기       |
+| Option + F3  | Mnemonic 북마크 설정 |
+
 ## Comment
 
 | Shortcut    | Description |
