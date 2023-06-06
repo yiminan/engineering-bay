@@ -116,6 +116,22 @@ Settings > Editor > General > Auto Import > Java(사용 언어 선택) > Check "
 
 Settings > Editor > General > Editor Tabs > Uncheck "Enable Preview Tab"
 
+## IntelliJ에서 Pull Request 환경 셋팅
+
+### 1. GitHub Account 셋팅
+
+#### 1.1. Github.com
+
+Settings > Version Control > Github > Add(Github Account) > Log In with token > Generate (Token) > Add Account
+
+#### 1.2. Github Enterprise
+
+Settings > Version Control > Github > Add(Github Account) > Log In to Github Enterprise > Generate (Token) > Add Account
+
+### 2. Pull Request 플러그인 사용
+
+Shift + Shift > Pull Request
+
 ---
 
 # IntelliJ Live Template
