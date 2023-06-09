@@ -50,6 +50,14 @@
 | F2                   | 오류난 곳으로 이동    |
 | Option + Enter       | 리팩토링 수정 제안    |
 
+## Bookmark
+
+| Shortcut     | Description     |
+|--------------|-----------------|
+| F3           | 라인에 북마크 설정/해제   |
+| Command + F3 | 북마크 목록 보기       |
+| Option + F3  | Mnemonic 북마크 설정 |
+
 ## Comment
 
 | Shortcut    | Description |
@@ -91,11 +99,19 @@
 |----------------------|---------------|
 | Option + Command + U | Class Diagram |
 
-## Terminal
+## Supports Window
 
-| Shortcut     | Description   |
-|--------------|---------------|
-| Option + F12 | Terminal 창 실행 |
+| Shortcut     | Description          |
+|--------------|----------------------|
+| Option + F12 | Terminal 창 실행        |
+| Command + 1  | Project 창 실행         |
+| Command + 2  | Bookmarks 창 실행       |
+| Command + 4  | Run 창 실행             |
+| Command + 5  | Debug 창 실행           |
+| Command + 6  | Problem 창 실행         |
+| Command + 7  | Structure 창 실행       |
+| Command + 8  | Services 창 실행        |
+| Command + 9  | Version Control 창 실행 |
 
 --- 
 
@@ -129,9 +145,28 @@ Settings > Editor > General > Auto Import > Java(사용 언어 선택) > Check "
 
 Settings > Editor > General > Editor Tabs > Uncheck "Enable Preview Tab"
 
+## IntelliJ에서 Pull Request 환경 셋팅
+
+### 1. GitHub Account 셋팅
+
+#### 1.1. Github.com
+
+Settings > Version Control > Github > Add(Github Account) > Log In with token > Generate (Token) > Add Account
+
+#### 1.2. Github Enterprise
+
+Settings > Version Control > Github > Add(Github Account) > Log In to Github Enterprise > Generate (Token) > Add Account
+
+### 2. Pull Request 플러그인 사용
+
+Shift + Shift > Pull Request
+
 ---
 
 # IntelliJ Live Template
 
 ## Live Template 설정 방법
 
+---
+
+# IntelliJ Plugin
