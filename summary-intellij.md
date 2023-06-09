@@ -99,7 +99,7 @@
 
 --- 
 
-# IntelliJ Settings
+# IntelliJ Tips
 
 ## Auto Code Folding 셋팅하기
 
