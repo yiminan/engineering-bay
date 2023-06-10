@@ -170,3 +170,5 @@ Shift + Shift > Pull Request
 ---
 
 # IntelliJ Plugin
+
+### [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore)
