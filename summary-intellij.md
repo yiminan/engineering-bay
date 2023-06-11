@@ -121,11 +121,11 @@
 
 ### Enable Code Folding
 
-Settings > Editor > General > Code Folding > Check "wanted element"
+Settings > Editor > General > Code Folding > Check "Code Folding을 원하는 요소"
 
 ### Disable Code Folding
 
-Settings > Editor > General > Code Folding > Uncheck "wanted element"
+Settings > Editor > General > Code Folding > Uncheck "Code Unfolding을 원하는 요소"
 
 ## Single name import 사용하기 (같은 계층의 import가 많아지면 *로 변경하는 것 방지)
 
