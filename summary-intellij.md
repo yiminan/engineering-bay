@@ -171,4 +171,4 @@ Shift + Shift > Pull Request
 
 # IntelliJ Plugin
 
-### [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore)
+### [.ignore : gitignore 파일 생성](https://plugins.jetbrains.com/plugin/7495--ignore)
