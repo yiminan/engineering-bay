@@ -185,4 +185,6 @@ Shift + Shift > Pull Request
 
 ### [GitToolBox : Git과 관련된 Tool box](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
 
+### [Indent Rainbow : Indent를 가독성있는 무지갯빛 표현](https://plugins.jetbrains.com/plugin/13308-indent-rainbow)
+
 ### [RestfulBox : 구현한 API Spec Requester](https://plugins.jetbrains.com/plugin/14723-restfulbox)
