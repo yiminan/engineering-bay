@@ -173,10 +173,12 @@ Shift + Shift > Pull Request
 
 ### [.ignore : gitignore 파일 생성](https://plugins.jetbrains.com/plugin/7495--ignore)
 
-### [Atom Material Icons : IDE의 Icon을 Atom 스타일로 예쁘게 만들어준다.](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
+### [Atom Material Icons : IDE의 Icon을 Atom 스타일 만듦](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
 
-### [CamelCase : Camel Case로 변경해준다.](https://plugins.jetbrains.com/plugin/7160-camelcase)
+### [CamelCase : Camel Case로 변경](https://plugins.jetbrains.com/plugin/7160-camelcase)
 
-### [Code Screenshots : 클립보드에 Code 스크린샷을 만들어준다.](https://plugins.jetbrains.com/plugin/9406-code-screenshots)
+### [Code Screenshots : 클립보드에 Code 스크린샷 생성](https://plugins.jetbrains.com/plugin/9406-code-screenshots)
 
-### [CodeMetrics : Code 복잡도를 분석해준다.](https://plugins.jetbrains.com/plugin/12159-codemetrics)
+### [CodeMetrics : Code 복잡도 분석](https://plugins.jetbrains.com/plugin/12159-codemetrics)
+
+### [GitHub Copilot : 생산성을 위한 코드 추천](https://plugins.jetbrains.com/plugin/17718-github-copilot)
