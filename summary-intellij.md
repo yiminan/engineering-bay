@@ -172,3 +172,5 @@ Shift + Shift > Pull Request
 # IntelliJ Plugin
 
 ### [.ignore : gitignore 파일 생성](https://plugins.jetbrains.com/plugin/7495--ignore)
+
+### [Atom Material Icons : IDE의 Icon을 Atom 스타일로 예쁘게 만들어준다.](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
