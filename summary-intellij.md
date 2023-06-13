@@ -191,4 +191,6 @@ Shift + Shift > Pull Request
 
 ### [One Dark theme : IDE를 괜찮은 다크테마로 만듦](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)
 
+### [PlantUML Integration : UML을 만들 수 있는 툴](https://plugins.jetbrains.com/plugin/7017-plantuml-integration)
+
 ### [RestfulBox : 구현한 API Spec Requester](https://plugins.jetbrains.com/plugin/14723-restfulbox)
