@@ -187,4 +187,6 @@ Shift + Shift > Pull Request
 
 ### [Indent Rainbow : Indent를 가독성있는 무지갯빛 표현](https://plugins.jetbrains.com/plugin/13308-indent-rainbow)
 
+### [Mermaid : 각종 다이어그램과 지표를 그릴 수 있는 툴](https://plugins.jetbrains.com/plugin/20146-mermaid)
+
 ### [RestfulBox : 구현한 API Spec Requester](https://plugins.jetbrains.com/plugin/14723-restfulbox)
