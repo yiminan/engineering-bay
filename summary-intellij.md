@@ -193,4 +193,6 @@ Shift + Shift > Pull Request
 
 ### [PlantUML Integration : UML을 만들 수 있는 툴](https://plugins.jetbrains.com/plugin/7017-plantuml-integration)
 
+### [Rainbow Brackets : 코드 괄호를 가독성있는 무지갯빛 표현](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+
 ### [RestfulBox : 구현한 API Spec Requester](https://plugins.jetbrains.com/plugin/14723-restfulbox)
