@@ -196,3 +196,5 @@ Shift + Shift > Pull Request
 ### [Rainbow Brackets : 코드 괄호를 가독성있는 무지갯빛 표현](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 
 ### [RestfulBox : 구현한 API Spec Requester](https://plugins.jetbrains.com/plugin/14723-restfulbox)
+
+### [SonarLint : 소스 코드 정적 분석](https://plugins.jetbrains.com/plugin/7973-sonarlint)
