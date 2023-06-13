@@ -176,3 +176,5 @@ Shift + Shift > Pull Request
 ### [Atom Material Icons : IDE의 Icon을 Atom 스타일로 예쁘게 만들어준다.](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
 
 ### [CamelCase : Camel Case로 변경해준다.](https://plugins.jetbrains.com/plugin/7160-camelcase)
+
+### [Code Screenshots : 클립보드에 Code 스크린샷을 만들어준다.](https://plugins.jetbrains.com/plugin/9406-code-screenshots)
