@@ -178,3 +178,5 @@ Shift + Shift > Pull Request
 ### [CamelCase : Camel Case로 변경해준다.](https://plugins.jetbrains.com/plugin/7160-camelcase)
 
 ### [Code Screenshots : 클립보드에 Code 스크린샷을 만들어준다.](https://plugins.jetbrains.com/plugin/9406-code-screenshots)
+
+### [CodeMetrics : Code 복잡도를 분석해준다.](https://plugins.jetbrains.com/plugin/12159-codemetrics)
