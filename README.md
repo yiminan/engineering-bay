@@ -11,3 +11,5 @@
 ## [Guide: Test](guide-test.md)
 
 ## [Guide: Linux](guide-linux.md)
+
+## [Guide: Mac Application](guide-macapplication.md)
