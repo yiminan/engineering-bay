@@ -28,6 +28,7 @@
 | Control + Option + O         | 사용하지 않는 import 정리                 |
 | option + command + L         | 코드 자동정렬                           |
 | Control + Tab (+ Shift)      | Editor switcher 실행                |
+| Shift + Ctrl + J             | 선택 영역 합치기 Join Lines              |
 
 ## Generate
 
