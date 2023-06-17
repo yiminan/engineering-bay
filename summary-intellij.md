@@ -28,6 +28,7 @@
 | Control + Option + O         | 사용하지 않는 import 정리                 |
 | option + command + L         | 코드 자동정렬                           |
 | Control + Tab (+ Shift)      | Editor switcher 실행                |
+| Shift + Ctrl + J             | 선택 영역 합치기 Join Lines              |
 
 ## Generate
 
@@ -171,4 +172,32 @@ Shift + Shift > Pull Request
 
 # IntelliJ Plugin
 
-### [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore)
+### [.ignore : gitignore 파일 생성](https://plugins.jetbrains.com/plugin/7495--ignore)
+
+### [Atom Material Icons : IDE의 Icon을 Atom 스타일 만듦](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
+
+### [CamelCase : Camel Case로 변경](https://plugins.jetbrains.com/plugin/7160-camelcase)
+
+### [Code Screenshots : 클립보드에 Code 스크린샷 생성](https://plugins.jetbrains.com/plugin/9406-code-screenshots)
+
+### [CodeMetrics : Code 복잡도 분석](https://plugins.jetbrains.com/plugin/12159-codemetrics)
+
+### [GitHub Copilot : 생산성을 위한 코드 추천](https://plugins.jetbrains.com/plugin/17718-github-copilot)
+
+### [GitToolBox : Git과 관련된 Tool box](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
+
+### [Indent Rainbow : Indent를 가독성있는 무지갯빛 표현](https://plugins.jetbrains.com/plugin/13308-indent-rainbow)
+
+### [Mermaid : 각종 다이어그램과 지표를 그릴 수 있는 툴](https://plugins.jetbrains.com/plugin/20146-mermaid)
+
+### [One Dark theme : IDE를 괜찮은 다크테마로 만듦](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)
+
+### [PlantUML Integration : UML을 만들 수 있는 툴](https://plugins.jetbrains.com/plugin/7017-plantuml-integration)
+
+### [Rainbow Brackets : 코드 괄호를 가독성있는 무지갯빛 표현](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+
+### [RestfulBox : 구현한 API Spec Requester](https://plugins.jetbrains.com/plugin/14723-restfulbox)
+
+### [SonarLint : 소스 코드 정적 분석](https://plugins.jetbrains.com/plugin/7973-sonarlint)
+
+### [Translation : IDE 내부에서 언어 번역](https://plugins.jetbrains.com/plugin/8579-translation)

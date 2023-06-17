@@ -13,3 +13,5 @@
 ## [Guide: Linux](guide-linux.md)
 
 ## [Guide: Pull Request](guide-pullrequest.md)
+
+## [Guide: Mac Application](guide-macapplication.md)
