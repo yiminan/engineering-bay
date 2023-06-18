@@ -168,6 +168,8 @@ Shift + Shift > Pull Request
 
 ## Live Template 설정 방법
 
+
+
 ---
 
 # IntelliJ Plugin
