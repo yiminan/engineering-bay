@@ -146,6 +146,10 @@ Settings > Editor > General > Auto Import > Java(사용 언어 선택) > Check "
 
 Settings > Editor > General > Editor Tabs > Uncheck "Enable Preview Tab"
 
+## 한 번에 수정할 에디터 창 갯수를 조절하는 방법
+
+Settings > Editor > General > Editor Tabs > Closing Policy > 원하는 정책 셋팅
+
 ## IntelliJ에서 Pull Request 환경 셋팅
 
 ### 1. GitHub Account 셋팅
