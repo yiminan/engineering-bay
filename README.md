@@ -1,10 +1,10 @@
 # engineering-bay
 
-## [Summary: Shortcut](summary-shortcut.md)
+## [Guide: Shortcut](summary-shortcut.md)
 
-## [Summary: IntelliJ](summary-intellij.md)
+## [Guide: IntelliJ](summary-intellij.md)
 
-## [Summary: Chrome](summary-chrome.md)
+## [Guide: Chrome](summary-chrome.md)
 
 ## [Guide: Diagram in software engineering](guide-diagraminsoftwareengineering.md)
 
