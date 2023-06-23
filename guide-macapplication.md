@@ -8,6 +8,16 @@
 
 - DataGrip
 
+### [Github Desktop](https://desktop.github.com)
+
+### [Warp](https://warp.dev)
+
+### git
+
+### homebrew
+
+### httpie
+
 ## Database
 
 ### [MySQL WorkBench](https://dev.mysql.com/downloads/workbench)
