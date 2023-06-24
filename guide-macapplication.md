@@ -26,3 +26,16 @@
 
 ### [Notion](https://www.notion.so)
 
+## Performance
+
+### [Alfred](https://www.alfredapp.com)
+
+### [1Password](https://1password.com)
+
+### [Rectangle](https://rectangleapp.com) or [Magnet](https://magnet.crowdcafe.com)
+
+### [ChatGPT](https://chat.openai.com)
+
+### [Shottr](https://shottr.cc) or [CleanShot X](https://cleanshot.com)
+
+### [BetterTouchTool](https://folivora.ai)
