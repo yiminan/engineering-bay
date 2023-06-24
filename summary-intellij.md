@@ -13,6 +13,7 @@
 | Control + D          | 현재 IDE에 지정된 코드 디버깅 |
 | Option + Enter       | 오류 해결 솔루션 제시       |
 | Command + Shift + A  | 모든 액션 검색           |
+| Command + Shift + F8 | 모든 브레이크 포인트 설정/해제  |
 
 ## Editor
 
@@ -171,8 +172,6 @@ Shift + Shift > Pull Request
 # IntelliJ Live Template
 
 ## Live Template 설정 방법
-
-
 
 ---
 
