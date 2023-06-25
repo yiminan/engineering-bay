@@ -1,4 +1,4 @@
-# summary-shortcut.md
+# summary-slack.md
 
 ## Slack
 

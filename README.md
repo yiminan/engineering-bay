@@ -1,6 +1,6 @@
 # engineering-bay
 
-## [Guide: Shortcut](guide-shortcut.md)
+## [Guide: Shortcut](guide-slack.md)
 
 ## [Guide: IntelliJ](guide-intellij.md)
 
