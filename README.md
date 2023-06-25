@@ -4,7 +4,7 @@
 
 ## [Guide: IntelliJ](summary-intellij.md)
 
-## [Guide: Chrome](summary-chrome.md)
+## [Guide: Chrome](gudie-chrome.md)
 
 ## [Guide: Diagram in software engineering](guide-diagraminsoftwareengineering.md)
 
