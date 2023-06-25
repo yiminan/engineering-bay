@@ -2,7 +2,7 @@
 
 ## [Guide: Shortcut](summary-shortcut.md)
 
-## [Guide: IntelliJ](summary-intellij.md)
+## [Guide: IntelliJ](guide-intellij.md)
 
 ## [Guide: Chrome](gudie-chrome.md)
 
