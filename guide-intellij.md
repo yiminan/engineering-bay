@@ -30,6 +30,7 @@
 | option + command + L         | 코드 자동정렬                           |
 | Control + Tab (+ Shift)      | Editor switcher 실행                |
 | Shift + Ctrl + J             | 선택 영역 합치기 Join Lines              |
+| Command + Shift + V          | 복사한 클립보드 히스토리                     |
 
 ## Generate
 
