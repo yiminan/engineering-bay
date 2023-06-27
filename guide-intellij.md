@@ -207,3 +207,5 @@ Shift + Shift > Pull Request
 ### [SonarLint : 소스 코드 정적 분석](https://plugins.jetbrains.com/plugin/7973-sonarlint)
 
 ### [Translation : IDE 내부에서 언어 번역](https://plugins.jetbrains.com/plugin/8579-translation)
+
+### [Conventional Commit : Git Commit Covention을 자동 완성](https://plugins.jetbrains.com/plugin/13389-conventional-commit)
