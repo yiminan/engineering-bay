@@ -116,6 +116,14 @@
 | Command + 8  | Services 창 실행        |
 | Command + 9  | Version Control 창 실행 |
 
+## Git
+
+| Shortcut             | Description       |
+|----------------------|-------------------|
+| Command + T          | Git pull          |
+| Command + Shift + K  | Git push          |
+| Command + Option + N | Create new Branch |          
+
 --- 
 
 # IntelliJ Tips
