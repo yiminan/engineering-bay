@@ -18,13 +18,19 @@
 
 ### httpie
 
+---
+
 ## Database
 
 ### [MySQL WorkBench](https://dev.mysql.com/downloads/workbench)
 
+---
+
 ## Document
 
 ### [Notion](https://www.notion.so)
+
+---
 
 ## Performance
 
@@ -41,3 +47,5 @@
 ### [BetterTouchTool](https://folivora.ai)
 
 ### [Microsoft To Do](https://to-do.office.com/tasks/)
+
+---
