@@ -1,0 +1,131 @@
+---
+title: Spring Diagram
+---
+classDiagram
+    WebServerFactory <|-- ServletWebServerFactory
+    WebServerFactory <|-- ReactiveWebServerFactory
+
+    ServletWebServerFactory <|.. TomcatServletWebServerFactory
+%%    ServletWebServerFactory <|-- JettyServletWebServerFactory
+%%    ServletWebServerFactory <|-- UndertowServletWebServerFactory
+
+    ReactiveWebServerFactory <|.. TomcatReactiveWebServerFactory
+%%    ReactiveWebServerFactory <|-- JettyReactiveWebServerFactory
+%%    ReactiveWebServerFactory <|-- UndertowReactiveWebServerFactory
+%%    ReactiveWebServerFactory <|-- NettyReactiveWebServerFactory
+
+    WebServer <|.. TomcatWebServer
+%%    WebServer <|-- JettyWebServer
+%%    WebServer <|-- UndertowWebServer
+%%    WebServer <|-- UndertowServletWebServer
+%%    WebServer <|-- NettyWebServer
+
+    TomcatServletWebServerFactory --> TomcatWebServer
+%%    JettyServletWebServerFactory --> JettyWebServer
+%%    UndertowServletWebServerFactory --> UndertowServletWebServer
+%%    UndertowReactiveWebServerFactory --> UndertowWebServer
+%%    NettyReactiveWebServerFactory --> NettyWebServer
+
+    TomcatReactiveWebServerFactory --> TomcatWebServer
+%%    JettyReactiveWebServerFactory --> JettyWebServer
+%%    UndertowReactiveWebServerFactory --> UndertowWebServer
+%%    NettyReactiveWebServerFactory --> NettyWebServer
+
+    Servlet <|.. GenericServlet
+    GenericServlet <|-- HttpServlet
+    HttpServlet <|-- MyImplementationServlet
+
+    TomcatWebServer --> HttpServlet
+
+    ServletRequest <|-- HttpServletRequest
+    HttpServletRequest <|.. HttpServletRequestWrapper
+    HttpServletRequestWrapper <|-- ApplicationHttpRequest
+
+    MyImplementationServlet --> ApplicationHttpRequest
+
+    ServletResponse <|-- HttpServletResponse
+    HttpServletResponse <|.. HttpServletResponseWrapper
+    HttpServletResponseWrapper <|-- ApplicationHttpResponse
+
+    MyImplementationServlet --> ApplicationHttpResponse
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    class WebServerFactory {
+        <<interface>>
+    }
+%% ServletWebServerFactory
+    class ServletWebServerFactory {
+        <<interface>>
+    }
+    class TomcatServletWebServerFactory {
+    }
+%%    class JettyServletWebServerFactory {
+%%    }
+%%    class UndertowServletWebServerFactory {
+%%    }
+
+%% ReactiveWebServerFactory
+    class ReactiveWebServerFactory {
+        <<interface>>
+    }
+    class TomcatReactiveWebServerFactory {
+    }
+%%    class JettyReactiveWebServerFactory {
+%%    }
+%%    class UndertowReactiveWebServerFactory {
+%%    }
+%%    class NettyReactiveWebServerFactory {
+%%    }
+
+%% WebServer
+    class WebServer {
+        <<Interface>>
+    }
+    class TomcatWebServer {
+    }
+%%    class JettyWebServer {
+%%    }
+%%    class UndertowWebServer {
+%%    }
+%%    class UndertowServletWebServer {
+%%    }
+%%    class NettyWebServer {
+%%    }
+
+%% Servlet
+    class Servlet {
+        <<Interface>>
+    }
+    class GenericServlet {
+        <<Abstract>>
+    }
+    class HttpServlet {
+        <<Abstract>>
+    }
+    class MyImplementationServlet {
+        - 내가 구현한 서블릿
+    }
+
+%% ServletRequest
+    class ServletRequest {
+    }
+    class HttpServletRequest {
+        <<Interface>>
+    }
+    class HttpServletRequestWrapper {
+    }
+    class ApplicationHttpRequest {
+    }
+
+%% ServletResponse
+    class ServletResponse {
+    }
+    class HttpServletResponse {
+        <<Interface>>
+    }
+    class HttpServletResponseWrapper {
+    }
+    class ApplicationHttpResponse {
+    }
