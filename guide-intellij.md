@@ -162,6 +162,16 @@ Settings > Editor > General > Editor Tabs > Uncheck "Enable Preview Tab"
 
 Settings > Editor > General > Editor Tabs > Closing Policy > 원하는 정책 셋팅
 
+## IntellJ Memory 사용량 높이거나 낮추는 커스텀 작업
+
+### IntelliJ Memory 사용량 높이기
+
+Help > Edit Custom VM Options > 원하는 사이즈 만큼 수정 ex) -Xmx4096m
+
+### IntelliJ Memory 사용량 보기
+
+Shift + Shift > Show Memory Indicator > ON으로 변경
+
 ## IntelliJ에서 Pull Request 환경 셋팅
 
 ### 1. GitHub Account 셋팅
