@@ -162,7 +162,7 @@ Settings > Editor > General > Editor Tabs > Uncheck "Enable Preview Tab"
 
 Settings > Editor > General > Editor Tabs > Closing Policy > 원하는 정책 셋팅
 
-## IntellJ Memory 사용량 높이거나 낮추는 커스텀 작업
+## IntelliJ Memory 사용량 높이거나 낮추는 커스텀 작업
 
 ### IntelliJ Memory 사용량 높이기
 
