@@ -123,7 +123,8 @@
 |----------------------|-------------------|
 | Command + T          | Git pull          |
 | Command + Shift + K  | Git push          |
-| Command + Option + N | Create new Branch |          
+| Command + Option + N | Create new Branch |
+| Command + K          | Commit            |
 
 --- 
 
