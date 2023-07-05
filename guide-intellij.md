@@ -116,6 +116,7 @@
 | Command + 8  | Services 창 실행         |
 | Command + 9  | Version Control 창 실행  |
 | Esc          | 다른 창에서 Editor로 포커스 이동 |
+| Control + H  | 현재 클래스의 상속관계 보기       |
 
 ## Git
 
