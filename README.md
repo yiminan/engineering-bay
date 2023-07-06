@@ -14,4 +14,4 @@
 
 ## [Guide: Pull Request](guide-pullrequest.md)
 
-## [Guide: Mac](guide-macapplication.md)
+## [Guide: Mac](guide-mac.md)
