@@ -1,4 +1,4 @@
-# guide-macapplication.md
+# guide-mac.md
 
 ## Development
 
