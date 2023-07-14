@@ -14,7 +14,7 @@
 
 ### git
 
-### homebrew
+### [homebrew](https://brew.sh)
 
 ### httpie
 
