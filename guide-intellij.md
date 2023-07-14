@@ -127,6 +127,9 @@
 | Command + Option + N | Create new Branch |
 | Command + K          | Commit            |
 
+## Gradle
+
+
 ## Live Template
 
 | Shortcut    | Description      |
