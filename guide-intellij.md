@@ -129,6 +129,9 @@
 
 ## Gradle
 
+| Shortcut            | Description         |
+|---------------------|---------------------|
+| command + shift + I | Load Gradle Changes |
 
 ## Live Template
 
