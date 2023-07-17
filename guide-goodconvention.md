@@ -8,6 +8,8 @@
 
 ## Application
 
+- Spring Cloud Config를 사용하여 설정 관리
+
 ## Pull Request
 
 - PR의 제목은 `[JIRA-KEY] PR 제목` 형식으로 작성
