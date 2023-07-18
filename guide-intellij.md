@@ -4,16 +4,16 @@
 
 ## Run and Debug
 
-| Shortcut             | Description        |
-|----------------------|--------------------|
-| control + option + R | 선택하여 코드 실행         |
-| control + control    | 코드 실행              |
-| control + option + D | 선택하여 코드 디버깅        |
-| control + R          | 현재 IDE에 지정된 코드 실행  |
-| control + D          | 현재 IDE에 지정된 코드 디버깅 |
-| option + enter       | 오류 해결 솔루션 제시(퀵 픽스) |
-| command + shift + A  | 모든 액션 검색           |
-| command + shift + F8 | 모든 브레이크 포인트 설정/해제  |
+| Shortcut             | Description           |
+|----------------------|-----------------------|
+| control + option + R | 선택하여 코드 실행            |
+| control + control    | 코드 실행(task, cmd, ...) |
+| control + option + D | 선택하여 코드 디버깅           |
+| control + R          | 현재 IDE에 지정된 코드 실행     |
+| control + D          | 현재 IDE에 지정된 코드 디버깅    |
+| option + enter       | 오류 해결 솔루션 제시(퀵 픽스)    |
+| command + shift + A  | 모든 액션 검색              |
+| command + shift + F8 | 모든 브레이크 포인트 설정/해제     |
 
 ## Editor
 
