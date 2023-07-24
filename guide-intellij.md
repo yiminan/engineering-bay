@@ -31,6 +31,7 @@
 | control + Tab (+ shift)      | Editor switcher 실행                |
 | shift + control + J          | 선택 영역 합치기 Join Lines              |
 | command + shift + V          | 복사한 클립보드 히스토리                     |
+| command + shift + [ or ]     | 프로젝트 탭 간 좌우이동                     |
 
 ## Generate
 
