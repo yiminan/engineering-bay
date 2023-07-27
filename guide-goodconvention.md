@@ -9,9 +9,10 @@
 ## Application
 
 - Spring Cloud Config를 사용하여 설정 관리
-- 
 - Entity Class를 생성할 때 suffix로 '~Entity'를 붙임
     - ex) UserEntity, PaymentEntity
+- Controller -> Service DTO
+    - ex) UserCreateData, UserUpdateData, ...
 
 ## Pull Request
 
