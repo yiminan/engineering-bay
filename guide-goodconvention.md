@@ -9,12 +9,15 @@
 ## Application
 
 - Spring Cloud Config를 사용하여 설정 관리
-- Entity Class를 생성할 때 suffix로 '~Entity'를 붙임
-    - ex) UserEntity, PaymentEntity, ...
+
+### Layer DTO
+
 - Controller -> Service DTO
     - ex) UserCreateData, UserUpdateData, ...
 - Controller <- Service DTO
-  - ex) UserCreateResult, UserUpdateResult, ...
+    - ex) UserCreateResult, UserUpdateResult, ...
+- Entity Class를 생성할 때 suffix로 '~Entity'를 붙임
+    - ex) UserEntity, PaymentEntity, ...
 
 ## Pull Request
 
