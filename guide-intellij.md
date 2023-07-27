@@ -31,6 +31,7 @@
 | control + Tab (+ shift)      | Editor switcher 실행                |
 | shift + control + J          | 선택 영역 합치기 Join Lines              |
 | command + shift + V          | 복사한 클립보드 히스토리                     |
+| command + shift + [ or ]     | 프로젝트 탭 간 좌우이동                     |
 
 ## Generate
 
@@ -95,6 +96,7 @@
 | option + F7           | 해당 인터페이스/클래스/변수의 사용된 곳 알려줌  |
 | command + control + G | 일치하는 단어 전체 선택               |
 | command + 방향키(위)      | 패키지 또는 파일 경로 검색             |
+| command + 방향키(아래)     | 패키지 또는 파일 경로 열기             |
 
 ## Diagram
 
