@@ -10,13 +10,13 @@
 
 - Spring Cloud Config를 사용하여 설정 관리
 
-### Layer DTO
+### Object Naming Convention
 
 - Servlet -> Presentation DTO
     - ex) UserRequest, PaymentRequest, ...
-- Presentation -> Service DTO
+- Presentation -> Business DTO
     - ex) UserCreateData, UserUpdateData, ...
-- Presentation <- Service DTO
+- Presentation <- Business DTO
     - ex) UserCreateResult, UserUpdateResult, ...
 - Entity Class를 생성할 때 suffix로 '~Entity'를 붙임
     - ex) UserEntity, PaymentEntity, ...
