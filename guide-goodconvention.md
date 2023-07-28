@@ -12,6 +12,8 @@
 
 ### Layer DTO
 
+- Servlet -> Presentation DTO
+    - ex) UserRequest, PaymentRequest, ...
 - Controller -> Service DTO
     - ex) UserCreateData, UserUpdateData, ...
 - Controller <- Service DTO
