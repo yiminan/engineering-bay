@@ -19,6 +19,9 @@
 
 ### Object Naming Convention
 
+- Presentation Layer Object Name
+    - ex) UserRouter, PaymentRouter, ...
+
 - Servlet -> Presentation DTO
     - ex) UserRequest, PaymentRequest, ...
 - Presentation -> Business DTO
