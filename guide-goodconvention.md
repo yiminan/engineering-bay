@@ -45,7 +45,9 @@
 - Value Object Suffix Naming
     - ex) UserIdVo, PaymentIdVo, ...
 
-## Pull Request
+## Github
+
+### Pull Request
 
 - PR의 제목은 `[JIRA-KEY] PR 제목` 형식으로 작성
     - ex) `[ABC-1234] 프레임워크 패치 버전 업데이트`
