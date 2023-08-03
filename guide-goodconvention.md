@@ -21,7 +21,7 @@
 
 ## Application
 
-- Spring Cloud Config를 사용하여 설정 관리
+- Spring Cloud Config를 사용 설정 관리
 
 ### Object Naming Convention
 
