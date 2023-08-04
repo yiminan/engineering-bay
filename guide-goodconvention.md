@@ -1,6 +1,6 @@
 # guide-goodconvention.md
 
-## Database
+# Database
 
 - DB DDL에서 Column, Table의 comment 작성 필수
 - FK는 column naming을 prefix: ‘ref_’를 적용
@@ -19,11 +19,11 @@
     - 위의 이유들은 외래 키를 사용하지 않는 경우의 일반적인 이유들이지만, 이러한 결정은 각 상황에 따라 달라질 수 있습니다. 데이터베이스 설계는 데이터의 중요성과 애플리케이션의 요구사항을 고려하여 신중하게
       수행되어야 합니다. 외래 키의 사용 여부는 프로젝트 요구사항과 성능, 유지보수 등 다양한 요인들을 고려하여 결정되어야 합니다.
 
-## Application
+# Application
 
 - Spring Cloud Config를 사용 설정 관리
 
-### Object Naming Convention
+## Object Naming Convention
 
 - Presentation Layer Object Name
     - ex) UserRouter, PaymentRouter, ...
@@ -40,14 +40,16 @@
     - ex) UserCreateData, UserUpdateData, ...
 - Presentation <- Service DTO
     - ex) UserCreateResult, UserUpdateResult, ...
+
+
 - Entity Suffix Naming
     - ex) UserEntity, PaymentEntity, ...
 - Value Object Suffix Naming
     - ex) UserIdVo, PaymentIdVo, ...
 
-## Github
+# Github
 
-### Pull Request
+## Pull Request
 
 - PR의 제목은 `[JIRA-KEY] PR 제목` 형식으로 작성
     - ex) `[ABC-1234] 프레임워크 패치 버전 업데이트`
