@@ -248,9 +248,8 @@ shift + shift > Pull Request
 ### [Conventional Commit : Git Commit Covention을 자동 완성](https://plugins.jetbrains.com/plugin/13389-conventional-commit)
 
 - commit message에 대한 커스텀 컨벤션을 만들 수 있음
+- [참고할 만한 컨벤션](https://programmer-ririhan.tistory.com/335)
 
 ### [JsonToKotlinClass : Json을 Kotlin class로 생성](https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-)
-
-- [참고할 만한 컨벤션](https://programmer-ririhan.tistory.com/335)
 
 ### [Kotlin Fill Class : 인자로 들어가는 하는 것들을 auto fill(Download 해서 설치해야 함)](https://plugins.jetbrains.com/plugin/10942-kotlin-fill-class)
