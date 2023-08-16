@@ -12,6 +12,10 @@
 
 시스템의 정적 구조를 모델링하며, 클래스(Class), 속성(Attribute), 연산(Operation), 관계(Relationship) 등을 표현합니다.
 
+## 개체-관계 다이어그램 (Entity Relationship Diagram)
+
+시스템의 엔티티들이 무엇이 있는지 어떤 관계가 있는지를 나타내는 다이어그램입니다.
+
 ## 시퀀스 다이어그램 (Sequence Diagram)
 
 시스템의 동적인 행위를 시간순으로 보여주며, 객체 간의 상호작용과 메시지 흐름을 표현합니다.
