@@ -12,8 +12,6 @@
 
 ## [Guide: Linux](guide-linux.md)
 
-## [Guide: Pull Request](guide-pullrequest.md)
-
 ## [Guide: Mac](guide-mac.md)
 
 ## [Guide: Good Convention](guide-goodconvention.md)
