@@ -8,6 +8,8 @@
 
 - DataGrip
 
+- ㅇ
+
 ### [Github Desktop](https://desktop.github.com)
 
 ### [Warp](https://warp.dev)
