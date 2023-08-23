@@ -4,7 +4,7 @@
 - 다이어그램은 시각적으로 시스템의 구조, 동작 및 관계를 설명하기 위해 사용됩니다.
 - 다이어그램은 문제 해결과 시스템 설계를 위해 사용되며, 팀 협업과 이해관계자 간의 의사소통을 돕는 데에 유용합니다.
 
-[Docs: 다이어그램 작성 툴 Mermaid](https://mermaid.js.org/intro)
+[Link: 다이어그램 작성 툴 Mermaid](https://mermaid.js.org/intro)
 
 ## 유스케이스 다이어그램 (Use Case Diagram)
 
