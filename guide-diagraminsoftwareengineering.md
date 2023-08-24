@@ -14,7 +14,7 @@
 
 시스템의 정적 구조를 모델링하며, 클래스(Class), 속성(Attribute), 연산(Operation), 관계(Relationship) 등을 표현합니다.
 
-## 개체-관계 다이어그램 (Entity Relationship Diagram)
+## 개체-관계 다이어그램 (Entity Relationship Diagram = ERD)
 
 시스템의 엔티티들이 무엇이 있는지 어떤 관계가 있는지를 나타내는 다이어그램입니다.
 
