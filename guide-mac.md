@@ -3,6 +3,7 @@
 ## Development
 
 ### [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app)
+: Toolbox를 사용하면, IDE의 롤백이나 버전관리를 할 수 있다.
 
 - IntelliJ IDEA
 
