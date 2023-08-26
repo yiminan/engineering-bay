@@ -50,6 +50,12 @@
 
 ---
 
+## File
+
+### [App cleaner](https://freemacsoft.net/appcleaner/)
+
+---
+
 ## Flutter
 
 ### [Flutter Get Started](https://flutter.dev/docs/get-started/install/macos)
