@@ -21,6 +21,8 @@
 
 # Application
 
+## Profile configuration
+
 - Spring Cloud Config를 사용하여 .yml 설정 관리
 - Spring Cloud Config Repository를 만들어 Profile별 .yml 설정 관리
 
