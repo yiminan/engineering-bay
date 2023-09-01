@@ -9,8 +9,12 @@ FROM INFORMATION_SCHEMA.COLUMNS
 WHERE COLUMN_NAME LIKE 'column_name%';
 ```
 
-### mysql에서 해당 DB Transaction Isolation level 찾기
+---
+
+### mysql에서 해당 DB Transaction Isolation level 조회
 
 ```sql
-SHOW VARIABLES WHERE VARIABLE_NAME = 'tx_isolation';
+SHOW
+VARIABLES WHERE VARIABLE_NAME = 'tx_isolation';
 ```
+
