@@ -18,3 +18,11 @@ SHOW
 VARIABLES WHERE VARIABLE_NAME = 'tx_isolation';
 ```
 
+---
+
+### mysql에서 해당 DB Transaction Isolation level 변경
+
+```sql
+SET
+GLOBAL TRANSACTION ISOLATION LEVEL READ COMMITTED;
+```
