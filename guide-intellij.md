@@ -32,6 +32,7 @@
 | shift + control + J          | 선택 영역 합치기 Join Lines              |
 | command + shift + V          | 복사한 클립보드 히스토리                     |
 | command + shift + [ or ]     | 프로젝트 탭 간 좌우이동                     |
+| option + space               | 코드 자동완성                           |
 
 ## Generate
 
@@ -83,6 +84,7 @@
 | Shortcut              | Description                 |
 |-----------------------|-----------------------------|
 | shift + shift         | 전체 검색                       |
+| command + O           | 클래스 검색                      |
 | command + option + O  | 메소드 검색                      |
 | command + shift + A   | 액션 검색                       |
 | command + F           | 현재 파일에서 검색                  |
