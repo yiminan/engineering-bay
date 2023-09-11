@@ -25,3 +25,13 @@ VARIABLES WHERE VARIABLE_NAME = 'tx_isolation';
 SET
 GLOBAL TRANSACTION ISOLATION LEVEL READ COMMITTED;
 ```
+
+---
+
+### 현재 실행 중인 프로세스 리스트
+
+```sql
+SHOW
+FULL
+PROCESSLIST;
+```

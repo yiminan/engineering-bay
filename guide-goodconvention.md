@@ -25,6 +25,7 @@
 
 - Spring Cloud Config를 사용하여 .yml 설정 관리
 - Spring Cloud Config Git Repository를 만들어 Profile별 .yml 설정 관리
+- 암호화는 KMS를 이용한 cypher text 관리
 
 ## Object Naming Convention
 
