@@ -70,6 +70,11 @@
 - Value Object Suffix Naming
     - ex) UserIdVo, PaymentIdVo, ...
 
+- Client -> Thirdparty RequestBody
+    - ex) UserCreateRequestBody, PaymentUpdateRequestBody, ...
+- Client <- Thirdparty ResponseBody
+    - ex) UserCreateResponseBody, PaymentUpdateResponseBody, ...
+
 # Github
 
 ## Pull Request
