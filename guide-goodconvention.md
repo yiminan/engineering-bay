@@ -67,7 +67,7 @@
 
 - Entity Suffix Naming
     - ex) UserEntity, PaymentEntity, ...
-- Value Object Suffix Naming
+- Entity Value Object Suffix Naming
     - ex) UserIdVo, PaymentIdVo, ...
 
 - Client -> Thirdparty RequestBody
