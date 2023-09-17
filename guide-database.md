@@ -10,6 +10,7 @@ WHERE COLUMN_NAME LIKE 'column_name%';
 ```
 
 ---
+
 ### mysql에서 해당 DB Transaction Isolation level 조회
 
 ```sql
@@ -34,4 +35,13 @@ GLOBAL TRANSACTION ISOLATION LEVEL READ COMMITTED;
 SHOW
 FULL
 PROCESSLIST;
+```
+
+---
+
+### 현재 실행 중인 프로세스 리스트에서 특정 프로세스 kill
+
+```sql
+KILL
+PROCESS_ID;
 ```
