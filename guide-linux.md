@@ -62,11 +62,13 @@
 
 ### nslookup
 
-| Command                 | Description     |
-|-------------------------|-----------------|
-| nslookup [도메인명]         | 도메인명의 IP 주소 확인  |
-| nslookup -type=ns [도메인] | 도메인명의 NS 레코드 확인 |
-| nslookup -type=mx [도메인] | 도메인명의 MX 레코드 확인 |
+| Command                  | Description      |
+|--------------------------|------------------|
+| nslookup [도메인명]          | 도메인명의 IP 주소 확인   |
+| nslookup -type=a [도메인]   | 도메인명의 A 레코드 확인   |
+| nslookup -type=ns [도메인]  | 도메인명의 NS 레코드 확인  |
+| nslookup -type=mx [도메인]  | 도메인명의 MX 레코드 확인  |
+| nslookup -type=soa [도메인] | 도메인명의 SOA 레코드 확인 |
 
 ### lsof
 
