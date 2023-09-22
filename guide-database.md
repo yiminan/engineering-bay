@@ -45,3 +45,14 @@ PROCESSLIST;
 KILL
 PROCESS_ID;
 ```
+
+---
+
+### mysql에서 특정 DB의 특정 테이블의 모든 컬럼 조회
+
+```sql
+SELECT *
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_SCHEMA = 'DB_NAME'
+  AND TABLE_NAME = 'TABLE_NAME';
+```
