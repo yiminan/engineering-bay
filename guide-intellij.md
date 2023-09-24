@@ -47,11 +47,12 @@
 |----------------------|---------------|
 | control + T          | 모든 리팩토링 선택 기능 |
 | shift + F6           | 파일 이름 변경      |
-| command + option + M | 메소드 추출 분리     |
-| command + option + C | 정적 상수 분리      |
-| command + option + F | 필드(객체변수) 분리   |
-| command + option + V | 지역변수 분리       |
-| command + option + L | 코드 컨벤션 체크     |
+| option + command + M | 메소드 추출 분리     |
+| option + command + C | 정적 상수 분리      |
+| option + command + F | 필드(객체변수) 분리   |
+| option + command + V | 지역변수 분리       |
+| option + command + L | 코드 컨벤션 체크     |
+| option + command + P | 파라미터 추출 분리    |
 | F2                   | 오류난 곳으로 이동    |
 | option + enter       | 리팩토링 수정 제안    |
 
@@ -106,6 +107,10 @@
 | Shortcut             | Description   |
 |----------------------|---------------|
 | option + command + U | Class Diagram |
+| option + command + D | UML Diagram   |
+| option + command + S | Sequence      |
+| option + command + C | Component     |
+|
 
 ## Supports Window
 
