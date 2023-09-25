@@ -213,12 +213,6 @@ shift + shift > Pull Request
 
 ---
 
-# IntelliJ Live Template
-
-## Live Template 설정 방법
-
----
-
 # IntelliJ Plugin
 
 ### [.ignore : gitignore 파일 생성](https://plugins.jetbrains.com/plugin/7495--ignore)
