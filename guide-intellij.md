@@ -29,7 +29,7 @@
 | control + option + O         | 사용하지 않는 import 정리                 |
 | option + command + L         | 코드 자동정렬                           |
 | control + Tab (+ shift)      | Editor switcher 실행                |
-| shift + control + J          | 선택 영역 합치기 Join Lines              |
+| control + shift + J          | 선택 영역 합치기 Join Lines              |
 | command + shift + V          | 복사한 클립보드 히스토리                     |
 | command + shift + [ or ]     | 프로젝트 탭 간 좌우이동                     |
 | option + space               | 코드 자동완성                           |
@@ -98,7 +98,7 @@
 | option + command + B  | 해당 인터페이스/클래스/변수가 구현된 곳 알려줌    |
 | option + F7           | 해당 인터페이스/클래스/변수의 사용된 곳 알려줌    |
 | option + command + F7 | 해당 인터페이스/클래스/변수의 사용된 곳 Pop-up |
-| command + control + G | 일치하는 단어 전체 선택                 |
+| control + command + G | 일치하는 단어 전체 선택                 |
 | command + 방향키(위)      | 패키지 또는 파일 경로 검색               |
 | command + 방향키(아래)     | 패키지 또는 파일 경로 열기               |
 
