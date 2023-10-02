@@ -2,6 +2,8 @@
 
 # Database
 
+## MySQL
+
 - DB DDL에서 Column, Table의 comment 작성 필수
 - FK는 column naming을 prefix: ‘ref_’를 적용
     - ex) ref_user_id, ref_payment_id
