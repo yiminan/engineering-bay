@@ -2,9 +2,13 @@
 
 # Database
 
+## MySQL
+
 - DB DDL에서 Column, Table의 comment 작성 필수
+
 - FK는 column naming을 prefix: ‘ref_’를 적용
     - ex) ref_user_id, ref_payment_id
+
 - 테이블 간에 FK의 Constraint는 사용하지 않는다.
     - 성능 이슈: Foreign key constraint는 데이터베이스에서 데이터 무결성을 유지하기 위해 오버헤드를 발생시킬 수 있습니다. 특히 대량의 데이터를 다루는 시스템에서는 외래 키 제약 조건이 쿼리
       실행 속도를 느리게 할 수 있습니다. 따라서 높은 처리량이 필요한 시스템에서는 외래 키를 사용하지 않고 데이터 무결성을 애플리케이션 수준에서 관리하기도 합니다.
