@@ -1,7 +1,5 @@
 # guide-database.md
 
-# Database
-
 ## MySQL
 
 - DB DDL에서 Column, Table의 comment 작성 필수
