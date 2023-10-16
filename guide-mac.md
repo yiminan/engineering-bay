@@ -10,7 +10,7 @@
 
 ### [homebrew](https://brew.sh)
 
-### httpie
+### [httpie](https://httpie.io)
 
 ---
 
