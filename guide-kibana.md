@@ -1,6 +1,8 @@
 # guide-kibana.md
 
-## KQL Example
+## KQL(Kibana Query Language) Example
+
+[Reference: Kibana Query Language](https://www.elastic.co/guide/en/kibana/current/kuery-query.html)
 
 ### 1. 특정 필드에 대한 검색
 
