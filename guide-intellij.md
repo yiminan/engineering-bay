@@ -83,25 +83,25 @@
 
 ## Finder
 
-| Shortcut              | Description                   |
-|-----------------------|-------------------------------|
-| shift + shift         | 전체 검색                         |
-| command + O           | 클래스 검색                        |
-| command + option + O  | 메소드 검색                        |
-| command + shift + A   | 액션 검색                         |
-| command + F           | 현재 파일에서 검색                    |
-| command + shift + F   | 전체에서 검색                       |
-| command + R           | 현재 파일에서 교체                    |
-| command + shift + R   | 전체에서 교체                       |
-| command + E           | 최근 열었던 파일 목록                  |
-| command + shift + E   | 최근 수정한 파일 목록                  |
-| command + B           | 해당 인터페이스/클래스/변수의 선언된 곳으로 이동   |
-| option + command + B  | 해당 인터페이스/클래스/변수가 구현된 곳 알려줌    |
-| option + F7           | 해당 인터페이스/클래스/변수의 사용된 곳 알려줌    |
-| option + command + F7 | 해당 인터페이스/클래스/변수의 사용된 곳 Pop-up |
-| control + command + G | 일치하는 단어 전체 선택                 |
-| command + 방향키(위)      | 패키지 또는 파일 경로 검색               |
-| command + 방향키(아래)     | 패키지 또는 파일 경로 열기               |
+| Shortcut              | Description                        |
+|-----------------------|------------------------------------|
+| shift + shift         | 전체 검색                              |
+| command + O           | 클래스 검색                             |
+| command + option + O  | 메소드 검색                             |
+| command + shift + A   | 액션 검색                              |
+| command + F           | 현재 파일에서 검색                         |
+| command + shift + F   | 전체에서 검색                            |
+| command + R           | 현재 파일에서 교체                         |
+| command + shift + R   | 전체에서 교체                            |
+| command + E           | 최근 열었던 파일 목록                       |
+| command + shift + E   | 최근 수정한 파일 목록                       |
+| command + B           | 해당 인터페이스/클래스/변수의 선언된 곳으로 이동        |
+| option + command + B  | 해당 인터페이스/클래스/변수가 구현된 곳 알려줌         |
+| option + F7           | 해당 인터페이스/클래스/변수의 사용된 곳 알려줌(detail) |
+| option + command + F7 | 해당 인터페이스/클래스/변수의 사용된 곳 Pop-up      |
+| control + command + G | 일치하는 단어 전체 선택                      |
+| command + 방향키(위)      | 패키지 또는 파일 경로 검색                    |
+| command + 방향키(아래)     | 패키지 또는 파일 경로 열기                    |
 
 ## Diagram
 
