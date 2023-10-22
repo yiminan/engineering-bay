@@ -105,13 +105,12 @@
 
 ## Diagram
 
-| Shortcut             | Description   |
-|----------------------|---------------|
-| option + command + U | Class Diagram |
-| option + command + D | UML Diagram   |
-| option + command + S | Sequence      |
-| option + command + C | Component     |
-|
+| Shortcut             | Description       |
+|----------------------|-------------------|
+| option + command + U | Class Diagram(중요) |
+| option + command + D | UML Diagram       |
+| option + command + S | Sequence          |
+| option + command + C | Component         |
 
 ## Supports Window
 
