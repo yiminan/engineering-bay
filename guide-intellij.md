@@ -67,9 +67,10 @@
 
 ## Comment
 
-| Shortcut    | Description |
-|-------------|-------------|
-| command + / | 주석 처리       |
+| Shortcut                      | Description   |
+|-------------------------------|---------------|
+| command + /                   | 주석 처리         |
+| command + /** + return(enter) | JavaDoc 주석 처리 |
 
 ## Focus
 
