@@ -67,9 +67,10 @@
 
 ## Comment
 
-| Shortcut    | Description |
-|-------------|-------------|
-| command + / | 주석 처리       |
+| Shortcut                      | Description   |
+|-------------------------------|---------------|
+| command + /                   | 주석 처리         |
+| command + /** + return(enter) | JavaDoc 주석 처리 |
 
 ## Focus
 
@@ -83,35 +84,34 @@
 
 ## Finder
 
-| Shortcut              | Description                   |
-|-----------------------|-------------------------------|
-| shift + shift         | 전체 검색                         |
-| command + O           | 클래스 검색                        |
-| command + option + O  | 메소드 검색                        |
-| command + shift + A   | 액션 검색                         |
-| command + F           | 현재 파일에서 검색                    |
-| command + shift + F   | 전체에서 검색                       |
-| command + R           | 현재 파일에서 교체                    |
-| command + shift + R   | 전체에서 교체                       |
-| command + E           | 최근 열었던 파일 목록                  |
-| command + shift + E   | 최근 수정한 파일 목록                  |
-| command + B           | 해당 인터페이스/클래스/변수의 선언된 곳으로 이동   |
-| option + command + B  | 해당 인터페이스/클래스/변수가 구현된 곳 알려줌    |
-| option + F7           | 해당 인터페이스/클래스/변수의 사용된 곳 알려줌    |
-| option + command + F7 | 해당 인터페이스/클래스/변수의 사용된 곳 Pop-up |
-| control + command + G | 일치하는 단어 전체 선택                 |
-| command + 방향키(위)      | 패키지 또는 파일 경로 검색               |
-| command + 방향키(아래)     | 패키지 또는 파일 경로 열기               |
+| Shortcut              | Description                        |
+|-----------------------|------------------------------------|
+| shift + shift         | 전체 검색                              |
+| command + O           | 클래스 검색                             |
+| command + option + O  | 메소드 검색                             |
+| command + shift + A   | 액션 검색                              |
+| command + F           | 현재 파일에서 검색                         |
+| command + shift + F   | 전체에서 검색                            |
+| command + R           | 현재 파일에서 교체                         |
+| command + shift + R   | 전체에서 교체                            |
+| command + E           | 최근 열었던 파일 목록                       |
+| command + shift + E   | 최근 수정한 파일 목록                       |
+| command + B           | 해당 인터페이스/클래스/변수의 선언된 곳으로 이동        |
+| option + command + B  | 해당 인터페이스/클래스/변수가 구현된 곳 알려줌         |
+| option + F7           | 해당 인터페이스/클래스/변수의 사용된 곳 알려줌(detail) |
+| option + command + F7 | 해당 인터페이스/클래스/변수의 사용된 곳 Pop-up      |
+| control + command + G | 일치하는 단어 전체 선택                      |
+| command + 방향키(위)      | 패키지 또는 파일 경로 검색                    |
+| command + 방향키(아래)     | 패키지 또는 파일 경로 열기                    |
 
 ## Diagram
 
-| Shortcut             | Description   |
-|----------------------|---------------|
-| option + command + U | Class Diagram |
-| option + command + D | UML Diagram   |
-| option + command + S | Sequence      |
-| option + command + C | Component     |
-|
+| Shortcut             | Description       |
+|----------------------|-------------------|
+| option + command + U | Class Diagram(중요) |
+| option + command + D | UML Diagram       |
+| option + command + S | Sequence          |
+| option + command + C | Component         |
 
 ## Supports Window
 
@@ -128,7 +128,6 @@
 | command + 9  | Version control 창 실행  |
 | esc          | 다른 창에서 Editor로 포커스 이동 |
 | control + H  | 현재 클래스의 상속관계 보기       |
-| command + ;  | Project Settings      |
 
 ## Git
 
