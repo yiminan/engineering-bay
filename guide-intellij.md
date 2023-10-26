@@ -14,6 +14,7 @@
 | option + enter       | 오류 해결 솔루션 제시(퀵 픽스)    |
 | command + shift + A  | 모든 액션 검색              |
 | command + shift + F8 | 모든 브레이크 포인트 설정/해제     |
+| command + F8         | 현재 라인에 브레이크 포인트 설정/해제 |
 
 ## Editor
 
