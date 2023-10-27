@@ -1,5 +1,7 @@
 # engineering-bay
 
+: 개발에 필요한 환경 정리
+
 ## [Guide: Shortcut](guide-slack.md)
 
 ## [Guide: IntelliJ](guide-intellij.md)
