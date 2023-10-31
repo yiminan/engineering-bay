@@ -6,6 +6,8 @@
 
 ## [Guide: IntelliJ](guide-intellij.md)
 
+## [Guide: Datagrip](guide-datagrip.md)
+
 ## [Guide: Chrome](gudie-chrome.md)
 
 ## [Guide: Diagram in software engineering](guide-diagraminsoftwareengineering.md)
