@@ -98,7 +98,8 @@
 | command + shift + R   | 전체에서 교체                            |
 | command + E           | 최근 열었던 파일 목록                       |
 | command + shift + E   | 최근 수정한 파일 목록                       |
-| command + B           | 해당 인터페이스/클래스/변수의 선언된 곳으로 이동        |
+| command + B           | 해당 인터페이스/클래스/변수의 사용된 곳으로 이동        |
+| command + shift + b   | 해당 인터페이스/클래스/변수의 선언된 곳으로 이동        |
 | option + command + B  | 해당 인터페이스/클래스/변수가 구현된 곳 알려줌         |
 | option + F7           | 해당 인터페이스/클래스/변수의 사용된 곳 알려줌(detail) |
 | option + command + F7 | 해당 인터페이스/클래스/변수의 사용된 곳 Pop-up      |
