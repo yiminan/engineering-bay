@@ -1,4 +1,4 @@
-# summary-slack.md
+# guide-slack.md
 
 ## Slack
 
