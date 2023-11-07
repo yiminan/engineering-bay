@@ -107,6 +107,7 @@
 | control + command + G | 일치하는 단어 전체 선택                      |
 | command + 방향키(위)      | 패키지 또는 파일 경로 검색                    |
 | command + 방향키(아래)     | 패키지 또는 파일 경로 열기                    |
+| option + command + F7 | Project and Libraries에서 사용된 곳 찾기   |
 
 ## Diagram
 
