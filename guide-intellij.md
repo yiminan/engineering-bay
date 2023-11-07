@@ -1,4 +1,4 @@
-# summary-intellij.md
+# guide-intellij.md
 
 # IntelliJ Shortcut
 
