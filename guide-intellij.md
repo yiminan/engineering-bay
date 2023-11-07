@@ -34,6 +34,7 @@
 | control + shift + J          | 선택 영역 합치기 Join Lines              |
 | command + shift + V          | 복사한 클립보드 히스토리                     |
 | command + shift + [ or ]     | 프로젝트 탭 간 좌우이동                     |
+| command + [ or ]             | 이전 코드 또는 이후 코드로 이동                |
 | option + space               | 코드 자동완성                           |
 | command + shift + U          | 선택 영역 대문자/소문자 전환                  |
 
