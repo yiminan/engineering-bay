@@ -10,3 +10,4 @@
 | command + F         | 현재 채널에서 검색           |
 | command + shift + F | 모든 채널에서 검색           |
 | command + shift + T | 쓰레드 보기               |
+| command + [ or ]    | 이전과 이후에 위치했던 화면으로 이동 |
