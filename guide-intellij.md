@@ -139,9 +139,9 @@
 | Shortcut             | Description       |
 |----------------------|-------------------|
 | command + T          | Git pull          |
+| command + K          | Commit            |
 | command + shift + K  | Git push          |
 | command + option + N | Create new Branch |
-| command + K          | Commit            |
 
 ## Gradle
 
