@@ -133,6 +133,7 @@
 | command + 9  | Version control 창 실행  |
 | esc          | 다른 창에서 Editor로 포커스 이동 |
 | control + H  | 현재 클래스의 상속관계 보기       |
+| command + ,  | 설정 창 실행               |
 
 ## Git
 
