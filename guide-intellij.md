@@ -4,18 +4,18 @@
 
 ## Run and Debug
 
-| Shortcut             | Description            |
-|----------------------|------------------------|
-| control + option + R | 선택하여 코드 실행             |
-| control + control    | 코드 실행(task, cmd, ...)  |
-| control + option + D | 선택하여 코드 디버깅            |
-| control + R          | 현재 IDE에 지정된 코드 실행      |
-| control + D          | 현재 IDE에 지정된 코드 디버깅     |
-| option + enter       | 오류 해결 솔루션 제시(퀵 픽스)     |
-| command + shift + A  | 모든 액션 검색               |
-| command + shift + F8 | 모든 브레이크 포인트 설정/해제      |
-| command + F8         | 현재 라인에 브레이크 포인트 설정/해제  |
-| option + F8          | 모든 브레이크 포인트 중 evaluate |
+| Shortcut                     | Description            |
+|------------------------------|------------------------|
+| control + option + R         | 선택하여 코드 실행             |
+| control + control            | 코드 실행(task, cmd, ...)  |
+| (control + option + D) or F9 | 선택하여 코드 디버깅            |
+| control + R                  | 현재 IDE에 지정된 코드 실행      |
+| control + D                  | 현재 IDE에 지정된 코드 디버깅     |
+| option + enter               | 오류 해결 솔루션 제시(퀵 픽스)     |
+| command + shift + A          | 모든 액션 검색               |
+| command + shift + F8         | 모든 브레이크 포인트 설정/해제      |
+| command + F8                 | 현재 라인에 브레이크 포인트 설정/해제  |
+| option + F8                  | 모든 브레이크 포인트 중 evaluate |
 
 ## Editor
 
@@ -216,6 +216,10 @@ Settings > Version control > Github > Add(Github Account) > Log In to Github ent
 ### 2. Pull Request 플러그인 사용
 
 shift + shift > Pull Request
+
+## New line 설정 (POSIX 표준)
+
+Settings > Editor > General > "Ensure every saved file ends with a line break" 체크
 
 ---
 
