@@ -80,12 +80,14 @@
 
 ### base64 (encode/decode)
 
-| Command                     | Description      |
-|-----------------------------|------------------|
-| echo -n [문자열] \| base64     | 문자열을 base64로 인코딩 |
-| echo -n [문자열] \| base64 -d  | 문자열을 base64로 디코딩 |
-| base64 -i [파일명] -o [파일명]    | 파일을 base64로 인코딩  |
-| base64 -D -i [파일명] -o [파일명] | 파일을 base64로 디코딩  |
+| Command                                       | Description      |
+|-----------------------------------------------|------------------|
+| echo -n [문자열] \| base64                       | 문자열을 base64로 인코딩 |
+| echo -n [문자열] \| base64 -d                    | 문자열을 base64로 디코딩 |
+| base64 -i [파일명] -o [파일명]                      | 파일을 base64로 인코딩  |
+| base64 -D -i [파일명] -o [파일명]                   | 파일을 base64로 디코딩  |
+| base64 -d -> enter -> 인코딩대상문자열 -> control + D | base64 문자열 디코딩   |
+| base64 -> enter -> 디코딩대상문자열 -> control + D    | base64 문자열 인코딩   |
 
 ### diff
 
@@ -115,10 +117,3 @@
 |-----------------------|-------------|
 | history               | 명령어 히스토리    |
 | history \| grep [검색어] | 명령어 히스토리 검색 |
-
-### base64
-
-| Command                                       | Description      |
-|-----------------------------------------------|------------------|
-| base64 -d -> enter -> 인코딩대상문자열 -> control + D | base64 문자열 디코딩   |
-| base64 -> enter -> 디코딩대상문자열 -> control + D    | base64 문자열 인코딩   |
