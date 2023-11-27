@@ -113,8 +113,6 @@
 | Shortcut             | Description       |
 |----------------------|-------------------|
 | option + command + U | Class Diagram(중요) |
-| option + command + D | UML Diagram       |
-| option + command + S | Sequence          |
 
 ## Supports Window
 
