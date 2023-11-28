@@ -118,6 +118,7 @@
 
 | Shortcut     | Description           |
 |--------------|-----------------------|
+| option + F1  | 현재 파일의 위치를 보여줌        |
 | option + F12 | Terminal 창 실행         |
 | command + 1  | Project 창 실행          |
 | command + 2  | Bookmarks 창 실행        |
