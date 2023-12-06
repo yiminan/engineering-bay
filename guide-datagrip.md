@@ -13,3 +13,4 @@
 | Shortcut      | Description |
 |---------------|-------------|
 | shift + shift | 파일 검색       |
+| option + F1   | 현재 파일 경로 찾기 |
