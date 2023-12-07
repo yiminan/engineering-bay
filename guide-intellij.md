@@ -197,7 +197,7 @@ Help > Edit Custom VM options > 원하는 사이즈 만큼 수정 ex) -Xmx4096m
 
 ### IntelliJ Memory 사용량 보기
 
-shift + shift > Show Memory Indicator > ON으로 변경
+shift + shift > Show Memory Indicator > ON 으로 변경
 
 ## IntelliJ에서 Pull Request 환경 셋팅
 
