@@ -45,5 +45,3 @@
 ```NOT _exists_:fieldName```
 
 - `fieldName`이라는 필드가 존재하지 않는 모든 문서를 검색합니다.
-
----
