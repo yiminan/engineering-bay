@@ -51,3 +51,9 @@
 ```extension:/p?ng/```
 
 - `extension` 필드의 값이 "png" 또는 "ping"인 문서를 검색합니다.
+
+### 9. 특정 필드의 값이 존재하는 문서 검색
+
+```_exists_:fieldName```
+
+- `fieldName`이라는 필드가 존재하는 모든 문서를 검색합니다.
