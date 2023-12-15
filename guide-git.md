@@ -31,3 +31,9 @@
 | Shortcut   | Description |
 |------------|-------------|
 | `git pull` | 원격 저장소에서 풀  |
+
+### status
+
+| Shortcut     | Description |
+|--------------|-------------|
+| `git status` | 현재 상태 보기    |
