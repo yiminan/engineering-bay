@@ -12,3 +12,5 @@ MSA가 힘든 부분
 - Context Tracing을 구현해야지 프로그램의 맥락을 찾아다니기 수월하다.
 - Server간 순환 호출이 발생할 수 있다.
 - convention 불일치(lint, code, test, build, deploy, ...)
+- Network Latency 발생
+- Atomicity 보장이 어렵다.
