@@ -91,3 +91,7 @@
 | Alt + Space + X | Cmd + M          | Minimize current window                                        |
 | F1              |                  | Open Chrome help                                               |
 | Alt + Shift + I |                  | Open a form to send feedback on Chrome                         |
+
+## Plugins
+
+- [Acid Tabs : 크롬탭의 그룹핑](https://chromewebstore.google.com/detail/hgceopemmcmigbmhphbcgkeffommpjfc)
