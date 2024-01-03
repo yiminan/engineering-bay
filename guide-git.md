@@ -20,11 +20,11 @@
 
 ### push
 
-| Shortcut                      | Description    |
-|-------------------------------|----------------|
-| `git push -u origin <branch>` | 원격 저장소에 브랜치 생성 |
-| `git push`                    | 원격 저장소에 푸시     |
-| `git push --force`            | 원격 저장소에 강제 푸시 기존 커밋히스토리 덮어쓰기  |
+| Shortcut                      | Description                  |
+|-------------------------------|------------------------------|
+| `git push -u origin <branch>` | 원격 저장소에 브랜치 생성               |
+| `git push`                    | 원격 저장소에 푸시                   |
+| `git push --force`            | 원격 저장소에 강제 푸시 기존 커밋히스토리 덮어쓰기 |
 
 ### pull
 
