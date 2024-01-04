@@ -37,3 +37,14 @@
 | Shortcut     | Description |
 |--------------|-------------|
 | `git status` | 현재 상태 보기    |
+
+### rebase
+
+| Shortcut                     | Description |
+|------------------------------|-------------|
+| `git rebase <branch>`        | 브랜치 리베이스    |
+| `git rebase --continue`      | 리베이스 계속     |
+| `git rebase --abort`         | 리베이스 취소     |
+| `git rebase --skip`          | 리베이스 건너뛰기   |
+| `git rebase -i <commit>`     | 커밋 합치기      |
+| `git rebase -i HEAD~<count>` | 커밋 합치기      |
