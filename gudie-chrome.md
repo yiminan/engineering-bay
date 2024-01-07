@@ -96,3 +96,4 @@
 
 - [Acid Tabs : 크롬탭의 그룹핑](https://chromewebstore.google.com/detail/hgceopemmcmigbmhphbcgkeffommpjfc)
 - [AdBlock : 광고차단](https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom)
+- [Google Dictionary (by Google) : ToolTip으로 단어검색](https://chrome.google.com/webstore/detail/mgijmajocgfcbeboacabfgobmjgjcoja)
