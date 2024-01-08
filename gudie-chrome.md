@@ -98,3 +98,4 @@
 - [AdBlock : 광고차단](https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom)
 - [Google Dictionary (by Google) : ToolTip으로 단어검색](https://chrome.google.com/webstore/detail/mgijmajocgfcbeboacabfgobmjgjcoja)
 - [Google Translate : 번역](https://chrome.google.com/webstore/detail/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+- [JSON Formatter: JSON 포맷팅](https://chrome.google.com/webstore/detail/bcjindcccaagfpapjjmafapmmgkkhgoa)
