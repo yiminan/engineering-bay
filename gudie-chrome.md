@@ -103,3 +103,5 @@
 - [Acid Tabs : 크롬탭의 그룹핑](https://chrome.google.com/webstore/detail/hgceopemmcmigbmhphbcgkeffommpjfc)
 - [ModHeader - Modify HTTP headers: HTTP 헤더를 수정](https://chrome.google.com/webstore/detail/idgpnmonknjnojddfkpgkljpfnnfcklj)
 - [React Developer Tools: 리액트 디버깅](https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi)
+- [Reader Mode: 리더모드](https://chrome.google.com/webstore/detail/ijpifmiajbelkgoaoecpdmkechkmegdi)
+- [Touch VPN - Secure and unlimited VPN proxy: VPN](https://chrome.google.com/webstore/detail/ihcjicgdanjaechkgeegckofjjedodee)
