@@ -105,3 +105,4 @@
 - [ModHeader - Modify HTTP headers: HTTP 헤더를 수정](https://chrome.google.com/webstore/detail/idgpnmonknjnojddfkpgkljpfnnfcklj)
 - [React Developer Tools: 리액트 디버깅](https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi)
 - [Touch VPN - Secure and unlimited VPN proxy: VPN](https://chrome.google.com/webstore/detail/ihcjicgdanjaechkgeegckofjjedodee)
+- [ChatGPT for Google: ChatGPT 응답을 검색 엔진 결과와 함께 표시](https://chromewebstore.google.com/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
