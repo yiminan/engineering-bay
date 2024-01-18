@@ -101,7 +101,7 @@
 - [JSON Formatter: JSON 포맷팅](https://chrome.google.com/webstore/detail/bcjindcccaagfpapjjmafapmmgkkhgoa)
 - [Markdown Here: 마크다운 문법을 문서로 변경](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)
 - [Acid Tabs : 크롬탭의 그룹핑](https://chrome.google.com/webstore/detail/hgceopemmcmigbmhphbcgkeffommpjfc)
-- [Reader View: 웹페이지를 읽기 쉽게 변경](https://chrome.google.com/webstore/detail/odpdkefpnfejbfnmdilmfhephfffmfoa)
+- [Reader Mode: 리더모드](https://chromewebstore.google.com/detail/reader-mode/llimhhconnjiflfimocjggfjdlmlhblm)
 - [ModHeader - Modify HTTP headers: HTTP 헤더를 수정](https://chrome.google.com/webstore/detail/idgpnmonknjnojddfkpgkljpfnnfcklj)
 - [React Developer Tools: 리액트 디버깅](https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi)
 - [Touch VPN - Secure and unlimited VPN proxy: VPN](https://chrome.google.com/webstore/detail/ihcjicgdanjaechkgeegckofjjedodee)
