@@ -48,6 +48,8 @@
 
 ### [App cleaner](https://freemacsoft.net/appcleaner/)
 
+### [Cleaner One Pro](https://apps.apple.com/kr/app/cleaner-one-pro-디스크-정리/id1133028347)
+
 ---
 
 ## Flutter
