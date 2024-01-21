@@ -64,5 +64,5 @@
 
 ## Measurement
 
-### [RunCat: 런캣](https://apps.apple.com/kr/app/runcat/id1429033973?mt
+### [RunCat: 런캣](https://apps.apple.com/kr/app/runcat/id1429033973?mt)
 
