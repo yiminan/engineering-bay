@@ -1,12 +1,25 @@
 # guide-mac.md
 
-## Development
+## IDE
 
-### [Github Desktop](https://desktop.github.com)
+### [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app)
+
+- IntelliJ IDEA
+- DataGrip
 
 ### [Warp](https://warp.dev)
 
-### git
+### [Postman](https://www.postman.com)
+
+### [Flutter Get Started](https://flutter.dev/docs/get-started/install/macos)
+
+### [Visual Studio Code](https://code.visualstudio.com)
+
+---
+
+## Git
+
+### [Github Desktop](https://desktop.github.com)
 
 ### [homebrew](https://brew.sh)
 
@@ -23,6 +36,10 @@
 ## Document
 
 ### [Notion](https://www.notion.so)
+
+### [Sublime Text](https://www.sublimetext.com)
+
+### [Typora](https://typora.io)
 
 ---
 
@@ -42,6 +59,8 @@
 
 ### [Microsoft To Do](https://to-do.office.com/tasks/)
 
+### [RunCat: 런캣](https://apps.apple.com/kr/app/runcat/id1429033973?mt)
+
 ---
 
 ## File
@@ -52,19 +71,12 @@
 
 ---
 
-## Flutter
+## Communication
 
-### [Flutter Get Started](https://flutter.dev/docs/get-started/install/macos)
-
----
-
-## Markdown
-
-### [Typora](https://typora.io)
+### [Slack](https://slack.com/intl/ko-kr/downloads/mac?geocode=ko-kr)
 
 ---
 
-## Measurement
+## Windows
 
-### [RunCat: 런캣](https://apps.apple.com/kr/app/runcat/id1429033973?mt)
-
+### [Parallels Desktop](https://www.parallels.com/kr/products/desktop)
