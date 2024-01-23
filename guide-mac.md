@@ -80,3 +80,5 @@
 ## Windows
 
 ### [Parallels Desktop](https://www.parallels.com/kr/products/desktop)
+
+- 라이센스 필요
