@@ -84,3 +84,11 @@
 ### [Parallels Desktop](https://www.parallels.com/kr/products/desktop)
 
 - 라이센스 필요
+
+---
+
+## MAC 설정
+
+### 맥북 상단 메뉴 막대 가리기 및 보기
+
+왼쪽 상단 사과마크 -> 시스템 설정 -> 데스크탑 및 Dock -> 자동으로 메뉴 막대 가리기 및 보기
