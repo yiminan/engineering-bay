@@ -31,6 +31,8 @@
 
 ### [MySQL Workbench](https://dev.mysql.com/downloads/workbench)
 
+### [MySQL Community Server](https://dev.mysql.com/downloads/mysql)
+
 ---
 
 ## Document
