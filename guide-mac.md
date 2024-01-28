@@ -75,6 +75,10 @@
 
 ### [Paint Brush](https://paintbrush.sourceforge.io/downloads)
 
+### [VLC](https://www.videolan.org/vlc/index.ko.html)
+
+### [Homebrew](https://brew.sh)
+
 ---
 
 ## File
