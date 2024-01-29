@@ -107,3 +107,4 @@
 - [Touch VPN - Secure and unlimited VPN proxy: VPN](https://chrome.google.com/webstore/detail/ihcjicgdanjaechkgeegckofjjedodee)
 - [ChatGPT for Google: ChatGPT 응답을 검색 엔진 결과와 함께 표시](https://chromewebstore.google.com/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
 - [Awesome Screen Recorder & Screenshot : 화면녹화](https://chromewebstore.google.com/detail/awesome-screen-recorder-s/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+- [Google Keep - Notes and Lists : 메모](https://chrome.google.com/webstore/detail/google-keep-notes-and-lis/hmjkmjkepdijhoojdojkdfohbdgmmhki)
