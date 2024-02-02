@@ -171,11 +171,11 @@ Settings > Editor > General > Code Folding > Uncheck "Code Unfolding을 원하�
 
 ### Use single name import in "Top level symbols"
 
-Settings > Editor > Code Style > Kotlin(사용 언어 선택) > Imports > Top level symbols > Use single name import
+Settings > Editor > Code Style > Kotlin(사용 언어 선택) > Imports > Top level symbols > Use single class import
 
 ### Use single name import in "Java statics and Enum members"
 
-Settings > Editor > Code Style > Kotlin(사용 언어 선택) > Imports > Java statics and Enum members > Use single name import
+Settings > Editor > Code Style > Kotlin(사용 언어 선택) > Imports > Java statics and Enum members > Use single class import
 
 ## Auto Optimize imports 셋팅
 
