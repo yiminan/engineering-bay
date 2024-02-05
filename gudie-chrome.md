@@ -99,7 +99,7 @@
 - [Google Translate : 번역](https://chrome.google.com/webstore/detail/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 - [JSON Formatter: JSON 포맷팅](https://chrome.google.com/webstore/detail/bcjindcccaagfpapjjmafapmmgkkhgoa)
 - [Markdown Here: 마크다운 문법을 문서로 변경](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)
-- [Reader Mode: 리더모드](https://chromewebstore.google.com/detail/reader-mode/llimhhconnjiflfimocjggfjdlmlhblm)
+- [Clearly Reader: 리더모드](https://chromewebstore.google.com/detail/clearly-reader-your-reade/odfonlkabodgbolnmmkdijkaeggofoop)
 - [ModHeader - Modify HTTP headers: HTTP 헤더를 수정](https://chrome.google.com/webstore/detail/idgpnmonknjnojddfkpgkljpfnnfcklj)
 - [React Developer Tools: 리액트 디버깅](https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi)
 - [Touch VPN - Secure and unlimited VPN proxy: VPN](https://chrome.google.com/webstore/detail/ihcjicgdanjaechkgeegckofjjedodee)
