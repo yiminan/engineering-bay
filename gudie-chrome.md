@@ -95,7 +95,7 @@
 ## Plugins
 
 - [Acid Tabs : 크롬탭의 그룹핑](https://chromewebstore.google.com/detail/hgceopemmcmigbmhphbcgkeffommpjfc)
-- [AdBlock : 광고차단](https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom)
+- [AdBlocker Stands : 광고차단](https://chromewebstore.google.com/detail/adblocker-stands/lgblnfidahcdcjddiepkckcfdhpknnjh)
 - [Google Translate : 번역](https://chrome.google.com/webstore/detail/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 - [JSON Formatter: JSON 포맷팅](https://chrome.google.com/webstore/detail/bcjindcccaagfpapjjmafapmmgkkhgoa)
 - [Markdown Here: 마크다운 문법을 문서로 변경](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)
