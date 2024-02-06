@@ -227,8 +227,7 @@ Settings > Editor > General > "Ensure every saved file ends with a line break" �
 
 ### [Atom Material Icons : IDE의 Icon을 Atom 스타일 만듦](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
 
-- IDE UI 속도 저하를 발생시킬 수 있음
-- IntelliJ에서 비추천
+- IDE UI 속도 저하, IntelliJ에서 비추천
 
 ### [CamelCase : Camel Case로 변경](https://plugins.jetbrains.com/plugin/7160-camelcase)
 
