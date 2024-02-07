@@ -49,6 +49,11 @@
 
 ### [Alfred](https://www.alfredapp.com)
 
+Todo
+
+- workflow : IntelliJ, DataGrip
+- clipboard history
+
 ### [1Password](https://1password.com)
 
 ### [Rectangle](https://rectangleapp.com) or [Magnet](https://magnet.crowdcafe.com)
