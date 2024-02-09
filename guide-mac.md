@@ -49,10 +49,8 @@
 
 ### [Alfred](https://www.alfredapp.com)
 
-Todo
-
-- workflow : IntelliJ, DataGrip
-- clipboard history
+- setting-workflow : IntelliJ, DataGrip
+- setting-clipboard history
 
 ### [1Password](https://1password.com)
 
