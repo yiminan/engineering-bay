@@ -49,6 +49,10 @@
 
 ### [Alfred](https://www.alfredapp.com)
 
+- setting-workflow : IntelliJ, DataGrip
+- setting-clipboard history
+- powerpack 구매 추천 (workflow 사용 가능)
+
 ### [1Password](https://1password.com)
 
 ### [Rectangle](https://rectangleapp.com) or [Magnet](https://magnet.crowdcafe.com)

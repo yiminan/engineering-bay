@@ -265,3 +265,8 @@ Settings > Editor > General > "Ensure every saved file ends with a line break" �
 ### [TabMover : 탭 이동시 필요한 키보드 조합을 단축키로 설정](https://plugins.jetbrains.com/plugin/10131-tabmover)
 
 ### [Kotlin Fill Class : 인자로 들어가는 하는 것들을 auto fill(Download 해서 설치해야 함)](https://plugins.jetbrains.com/plugin/10942-kotlin-fill-class)
+
+### [Grep Console : 로그를 필터링하여 보여줌](https://plugins.jetbrains.com/plugin/7125-grep-console)
+
+- settings > Grep Console > Highlight 설정 필요
+- "error" : FF6188 (빨강), "warn" : FFD866 (노랑), "info" : 78DCE8 (하늘), "debug" : A9DC76 (초록)
