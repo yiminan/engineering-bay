@@ -269,4 +269,4 @@ Settings > Editor > General > "Ensure every saved file ends with a line break" �
 ### [Grep Console : 로그를 필터링하여 보여줌](https://plugins.jetbrains.com/plugin/7125-grep-console)
 
 - settings > Grep Console > Highlight 설정 필요
-- "error" : FF6188 (빨강), "warn" : FFD866 (노랑), "info" : 78DCE8 (하늘), "debug" : A9DC76 (초록)
+- "error" : FF6188 (빨강), "warn" : FFD866 (노랑), "info" : 78DCE8 (하늘), "debug" : A9DC76 (초록) 으로 변경
