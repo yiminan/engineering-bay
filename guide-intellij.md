@@ -262,8 +262,6 @@ Settings > Editor > General > "Ensure every saved file ends with a line break" �
 
 ### [JsonToKotlinClass : Json을 Kotlin class로 생성](https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-)
 
-### [TabMover : 탭 이동시 필요한 키보드 조합을 단축키로 설정](https://plugins.jetbrains.com/plugin/10131-tabmover)
-
 ### [Kotlin Fill Class : 인자로 들어가는 하는 것들을 auto fill(Download 해서 설치해야 함)](https://plugins.jetbrains.com/plugin/10942-kotlin-fill-class)
 
 ### [Grep Console : 로그를 필터링하여 보여줌](https://plugins.jetbrains.com/plugin/7125-grep-console)

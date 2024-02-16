@@ -96,7 +96,7 @@
 
 - [Acid Tabs : 크롬탭의 그룹핑](https://chromewebstore.google.com/detail/hgceopemmcmigbmhphbcgkeffommpjfc)
 - [AdBlocker Stands : 광고차단](https://chromewebstore.google.com/detail/adblocker-stands/lgblnfidahcdcjddiepkckcfdhpknnjh)
-- [Google Translate : 번역](https://chrome.google.com/webstore/detail/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+- [Google Dictionary (by Google) : 툴팁 번역](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
 - [JSON Formatter: JSON 포맷팅](https://chrome.google.com/webstore/detail/bcjindcccaagfpapjjmafapmmgkkhgoa)
 - [Markdown Here: 마크다운 문법을 문서로 변경](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)
 - [Clearly Reader: 리더모드](https://chromewebstore.google.com/detail/clearly-reader-your-reade/odfonlkabodgbolnmmkdijkaeggofoop)
