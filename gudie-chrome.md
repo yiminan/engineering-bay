@@ -105,4 +105,3 @@
 - [Touch VPN - Secure and unlimited VPN proxy: VPN](https://chrome.google.com/webstore/detail/ihcjicgdanjaechkgeegckofjjedodee)
 - [Awesome Screen Recorder & Screenshot : 화면녹화](https://chromewebstore.google.com/detail/awesome-screen-recorder-s/nlipoenfbbikpbjkfpfillcgkoblgpmj)
 - [GoFullPage - Full Page Screen Capture : 페이지캡쳐](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
-- [Dark Reader : 웹페이지 다크모드](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
