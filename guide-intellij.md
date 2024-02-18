@@ -253,6 +253,7 @@ Settings > Editor > General > "Ensure every saved file ends with a line break" �
 
 - API Spec을 만들고, 해당 Spec에 대한 Request를 보낼 수 있음
 - API path 찾기
+- '@RestController'와 같은 어노테이션 기반 path만 찾을 수 있음
 
 ### [SonarLint : 소스 코드 정적 분석](https://plugins.jetbrains.com/plugin/7973-sonarlint)
 
