@@ -49,7 +49,9 @@
 
 ### [Alfred](https://www.alfredapp.com)
 
-- setting-workflow : IntelliJ, DataGrip
+- [setting-workflow](https://github.com/bchatard/alfred-jetbrains) : IntelliJ, DataGrip
+- 필수: "Show Alfred Preferences" -> "Workflows" -> "JetBrains - Open Project" -> "idea" ->  스크립트 변경 "
+  ./bin/alfred_jetbrains_cli search --product intelliJIdeaUltimate"
 - setting-clipboard history
 - powerpack 구매 추천 (workflow 사용 가능)
 
