@@ -59,6 +59,8 @@
 
 ### [Rectangle](https://rectangleapp.com) or [Magnet](https://magnet.crowdcafe.com)
 
+- Rectangle: 무료 추천
+
 ### [ChatGPT](https://chat.openai.com)
 
 ### [Shottr](https://shottr.cc) or [CleanShot X](https://cleanshot.com)
