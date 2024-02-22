@@ -71,7 +71,7 @@
 
 ### [Microsoft To Do](https://to-do.office.com/tasks/)
 
-### [RunCat: 런캣](https://apps.apple.com/kr/app/runcat/id1429033973)
+### [RunCat](https://apps.apple.com/kr/app/runcat/id1429033973)
 
 ### [Session](https://www.stayinsession.com)
 
