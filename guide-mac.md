@@ -109,7 +109,7 @@
 
 ### [Parallels Desktop](https://www.parallels.com/kr/products/desktop)
 
-- 라이센스 필요
+- 라이센스 필요 (유료)
 
 ---
 
