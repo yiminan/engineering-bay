@@ -43,6 +43,8 @@
 
 ### [Typora](https://typora.io)
 
+### [Sublime Text](https://www.sublimetext.com)
+
 ---
 
 ## Performance
