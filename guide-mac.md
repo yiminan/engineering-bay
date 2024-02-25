@@ -55,7 +55,7 @@
 - 필수: "Show Alfred Preferences" -> "Workflows" -> "JetBrains - Open Project" -> "idea" ->  스크립트 변경 "
   ./bin/alfred_jetbrains_cli search --product intelliJIdeaUltimate"
 - setting-clipboard history
-- powerpack 구매 추천 (workflow 사용 가능)
+- 유/무료 모두 가능, powerpack 구매 추천(workflow 사용 가능)
 
 ### [1Password](https://1password.com)
 
