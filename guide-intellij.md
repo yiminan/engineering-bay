@@ -239,6 +239,8 @@ Settings > Editor > General > "Ensure every saved file ends with a line break" �
 
 ### [GitToolBox : Git과 관련된 Tool box](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
 
+- 편리함때문에 git 관련 command 를 까먹을 수 있음
+
 ### [Indent Rainbow : Indent를 가독성있는 무지갯빛 표현](https://plugins.jetbrains.com/plugin/13308-indent-rainbow)
 
 ### [Mermaid : 각종 다이어그램과 지표를 그릴 수 있는 툴](https://plugins.jetbrains.com/plugin/20146-mermaid)
