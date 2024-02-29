@@ -199,6 +199,8 @@ Help > Edit Custom VM options > 원하는 사이즈 만큼 수정 ex) -Xmx4096m
 
 shift + shift > Show Memory Indicator > ON 으로 변경
 
+---
+
 ## IntelliJ에서 Pull Request 환경 셋팅
 
 ### 1. GitHub Account 셋팅
