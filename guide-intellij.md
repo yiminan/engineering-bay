@@ -276,3 +276,8 @@ Settings > Editor > General > "Ensure every saved file ends with a line break" �
 
 - settings > Grep Console > Highlight 설정 필요
 - "error" : FF6188 (빨강), "warn" : FFD866 (노랑), "info" : 78DCE8 (하늘), "debug" : A9DC76 (초록) 으로 변경
+
+### [ChatGPT Integration](https://plugins.jetbrains.com/plugin/21953-chatgpt-integration)
+
+- ChatGPT Webpage Integration 으로는 괜찮다.
+- 나머지는 조악함
