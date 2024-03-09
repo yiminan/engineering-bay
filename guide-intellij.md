@@ -276,3 +276,5 @@ Settings > Editor > General > "Ensure every saved file ends with a line break" �
 
 - settings > Grep Console > Highlight 설정 필요
 - "error" : FF6188 (빨강), "warn" : FFD866 (노랑), "info" : 78DCE8 (하늘), "debug" : A9DC76 (초록) 으로 변경
+
+### [Json Parser : JSON 을 예쁘게 보여줌](https://plugins.jetbrains.com/plugin/10650-json-parser)
