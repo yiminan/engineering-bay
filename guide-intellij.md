@@ -217,7 +217,7 @@ Settings > Version control > Github > Add(Github Account) > Log In to Github ent
 
 shift + shift > Pull Request
 
-## New line 설정 (POSIX 표준)
+## IntelliJ New line 설정 (POSIX 표준)
 
 Settings > Editor > General > "Ensure every saved file ends with a line break" 체크
 
