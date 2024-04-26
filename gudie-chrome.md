@@ -92,6 +92,12 @@
 | F1              |                  | Open Chrome help                                               |
 | Alt + Shift + I |                  | Open a form to send feedback on Chrome                         |
 
+## Settings
+
+### Enable Dark Mode
+
+chrome 접속 -> command + L -> `chrome://flags/#enable-force-dark` 입력 -> "Auto Dark Mode for Web Contents" Enabled 설정
+
 ## Plugins
 
 - [Acid Tabs : 크롬탭의 그룹핑](https://chromewebstore.google.com/detail/hgceopemmcmigbmhphbcgkeffommpjfc)
